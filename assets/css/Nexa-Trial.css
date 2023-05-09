@@ -1,0 +1,161 @@
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Light.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Light.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Light.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Light.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-LightItalic.woff) format('woff');
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-LightItalic.woff) format('woff');
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Black.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Black.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Black.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Black.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Heavy.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Heavy.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-Heavy.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-Heavy.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-BlackItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-BlackItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-BlackItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-BlackItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-HeavyItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-HeavyItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nexa-Trial';
+	src: url(../../assets/fonts/Nexa-Trial-HeavyItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Nexa-Trial-HeavyItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}
